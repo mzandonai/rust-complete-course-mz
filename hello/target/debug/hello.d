@@ -1,0 +1,1 @@
+E:\Programmazione\Corsi\ Udemy\Rust\ Programming\ Course\rust-complete-course-mz\hello\target\debug\hello.exe: E:\Programmazione\Corsi\ Udemy\Rust\ Programming\ Course\rust-complete-course-mz\hello\src\main.rs
