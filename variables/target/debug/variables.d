@@ -1,0 +1,1 @@
+E:\Programmazione\Corsi\ Udemy\Rust\ Programming\ Course\rust-complete-course-mz\variables\target\debug\variables.exe: E:\Programmazione\Corsi\ Udemy\Rust\ Programming\ Course\rust-complete-course-mz\variables\src\main.rs
